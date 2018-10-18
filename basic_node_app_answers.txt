@@ -27,8 +27,3 @@ Exports:
 > Answer:
 
 You should use exports (the shorthand way) because you have multiple values and it'll make it easier for importing and use. Also, it requires less code and you can customize the functions.
-
-Programming Questions
-4. Add two more functions, greetingSpanish and greetingIcelandic, in greeting.js.
-5. Utilize the two functions in main.js just like greetingEnglish and greetingJapanese.
-6. Create another Node module and import it into main.js. Your Node module should have at least two functions within it. Then, call a function from your Node module in main.js.
